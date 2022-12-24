@@ -1,0 +1,18 @@
+https://test.instamojo.com/@rameshwaranramesh/
+
+
+private API Key: test_df9141987c29b303da42690ad49
+
+
+Private Auth Token: test_a8ee201db389b6e4b31c13586e8
+
+
+Private Salt: bc85af15e7614fddb9e57d13b53b0ce2
+
+
+
+
+
+======================================
+https://test.instamojo.com/api/1.1/' =
+======================================

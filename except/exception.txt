@@ -1,0 +1,27 @@
+exception:
+
+abnormal event which stops the program immediately.
+it is a runtime error.
+
+keywords:
+
+try 
+catch 
+finally
+throw
+throwable
+
+
+		throwable
+
+exception:					Error:
+
+IOException					Stack overflow
+SQLException
+						
+ClassnotfoundException				virtual machine error
+RuntimeException
+	Arithmetic
+	Nullpointer				out of memory error
+	ArrayIndexOutOfBounds
+	Numberformat
